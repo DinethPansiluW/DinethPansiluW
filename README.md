@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=dinethpansiluw&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **improving my frontend development skills**  
 - 🌱 I’m currently learning **JavaScript** and exploring more software development concepts  
