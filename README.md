@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **improving my frontend development skills**  
 - 🌱 I’m currently learning **JavaScript** and exploring more software development concepts  
 - 💡 I’m interested in **Web Development & Software Engineering**  
-- 📫 How to reach me: **dinethpansilu2004@gmail.com**   
+- 📫 How to reach me: **dinethpansilu2004@gmail.com**  
 - ⚡ My Hobbies: **Watching Movies & Exploring New Technologies**  
 
 ---
@@ -26,9 +26,6 @@
   <a href="https://instagram.com/dinethpansiluw" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://t.me/DinethPansilu" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" />
-  </a>
 </p>
 
 ---
@@ -37,6 +34,18 @@
 
 <table>
   <tr>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+      </a>
+      <br>HTML
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+      </a>
+      <br>CSS
+    </td>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
