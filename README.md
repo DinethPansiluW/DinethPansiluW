@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **improving my frontend development skills**  
 - 🌱 I’m currently learning **JavaScript** and exploring more software development concepts  
 - 💡 I’m interested in **Web Development & Software Engineering**  
-- 📫 How to reach me: **dinethpansilu2004@gmail.com**  
+- 📫 My Email: **dinethpansilu2004@gmail.com**  
 - ⚡ My Hobbies: **Watching Movies & Exploring New Technologies**  
 
 ---
