@@ -6,75 +6,62 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 👨‍💻 About Me  
+## 👨‍💻 About Me  
 - 🔭 I’m currently working on **improving my frontend development skills**  
-- 🌱 I’m currently learning **CSS, JavaScript, PHP, and MySQL** while exploring more software development concepts  
-- 💡 I’m interested in **Web Development & Software Engineering**  
-- 📍 I’m from **Sri Lanka 🇱🇰**  
-- 📫 How to reach me: **dinethpansilu2004@gmail.com**  
+- 🌱 I’m learning **CSS, JavaScript, PHP, and MySQL**, while exploring new software development concepts  
+- 💡 Passionate about **Web Development & Software Engineering**  
+- 📍 From **Sri Lanka 🇱🇰**  
+- 📫 Reach me at **dinethpansilu2004@gmail.com**  
 - ⚡ Fun fact: **I love watching movies & exploring new technologies!**  
 
 ---
 
 ## 🌍 Connect with Me  
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/dinethpansiluw" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://fb.com/dinethpansiluw" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://instagram.com/dinethpansiluw" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://t.me/DinethPansilu" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools  
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-      </a>
-      <br>HTML
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
-      </a>
-      <br>CSS
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center">
-      <a href="https://www.php.net/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-      </a>
-      <br>PHP
-    </td>
-    <td align="center">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center">
-      <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50"/>
-      </a>
-      <br>Photoshop
-    </td>
-  </tr>
-</table>
+## 🛠️ Tech Stack  
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dinethpansiluw&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ---
 
