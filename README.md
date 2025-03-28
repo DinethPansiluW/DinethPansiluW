@@ -10,6 +10,7 @@
 - 🔭 I’m currently working on **improving my frontend development skills**  
 - 🌱 I’m currently learning **CSS, JavaScript, PHP, and MySQL** while exploring more software development concepts  
 - 💡 I’m interested in **Web Development & Software Engineering**  
+- 📍 I’m from **Sri Lanka 🇱🇰**  
 - 📫 How to reach me: **dinethpansilu2004@gmail.com**  
 - ⚡ Fun fact: **I love watching movies & exploring new technologies!**  
 
@@ -77,6 +78,4 @@
 
 ---
 
-
 ⭐ **Thank you for visiting my profile!** 🚀  
-
