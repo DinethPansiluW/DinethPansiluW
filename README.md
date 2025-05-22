@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me  
 - 🔭 I’m currently working on **improving my frontend development skills**  
-- 🌱 I’m learning **CSS, JavaScript, PHP, and MySQL**, while exploring new software development concepts  
+- 🌱 I’m learning new software development concepts  
 - 💡 Passionate about **Web Development & Software Engineering**  
 - 📍 From **Sri Lanka 🇱🇰**  
 - 📫 Reach me at **dinethpansilu2004@gmail.com**  
