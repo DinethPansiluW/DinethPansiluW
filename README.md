@@ -27,8 +27,8 @@
   <a href="https://instagram.com/dinethpansiluw" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://t.me/DinethPansilu" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/batch" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/136/136522.png" alt="BAT Script" width="40" height="40" />
   </a>
 </p>
 
@@ -53,6 +53,9 @@
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
     <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/batch" target="_blank">
+    <img src="https://skillicons.dev/icons?i=windows" alt="BAT Script" />
   </a>
 </p>
 
