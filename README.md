@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Dineth+Pansilu;BCS+Undergraduate+%7C+University+of+Ruhuna;Aspiring+Full-Stack+Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1500&color=0E75B6&center=true&vCenter=true&repeat=true&random=false&width=900&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Dineth+Pansilu;BCS+Undergraduate+%7C+University+of+Ruhuna;Aspiring+Full-Stack+Web+Developer;Building+clean+%26+modern+web+experiences" alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=DinethPansiluW&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DinethPansiluW&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I'm a **Computer Science undergraduate** pursuing a **BCS degree at the University of Ruhuna, Sri Lanka 🇱🇰**. I enjoy turning ideas into clean, responsive and user-friendly web applications, and I'm always looking for ways to grow as a software engineer.
 
